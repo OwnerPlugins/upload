@@ -34,12 +34,23 @@ trap 'rm -rf "$WORK"' EXIT
 mkdir -p "$OUT_DIR"
 echo "2.0" > "$WORK/debian-binary"
 
+# opkg/dpkg exec() the maintainer scripts directly, so they must be
+# executable. A source repo's git checkout doesn't always carry that bit
+# (e.g. added without chmod +x), so enforce it on a copy rather than
+# trusting whatever's on disk.
+CONTROL_STAGE="$WORK/control-stage"
+cp -r "$SRC_DIR/CONTROL" "$CONTROL_STAGE"
+chmod 644 "$CONTROL_STAGE/control"
+for script in preinst postinst prerm postrm; do
+  [ -f "$CONTROL_STAGE/$script" ] && chmod 755 "$CONTROL_STAGE/$script"
+done
+
 build_one() {
   local ext="$1" compress="$2" tar_flag="$3"
   local filename="${PKG}_${VER}_${ARCH}.${ext}"
   local out_file="$OUT_DIR/$filename"
 
-  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$SRC_DIR/CONTROL" -cf "$WORK/control.tar.$compress" .
+  tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$CONTROL_STAGE" -cf "$WORK/control.tar.$compress" .
   tar --numeric-owner --owner=0 --group=0 "$tar_flag" -C "$DATA_ROOT" -cf "$WORK/data.tar.$compress" usr
 
   rm -f "$out_file"
