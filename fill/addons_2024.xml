@@ -53,8 +53,8 @@
     </plugins>
     <!-- BOUQUETS -->
     <plugins cont="Bouquets Tools ">
-        <plugin name="Levi45 settings_1.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_1.6_all.ipk"</url>
+        <plugin name="Levi45 settings_2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.0_all.ipk"</url>
         </plugin>
         <plugin name="Update Icam Settings v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-updateicamsettings_2.1_all.ipk"</url>
@@ -1198,8 +1198,8 @@
         <plugin name="Iptv Remote v.1.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
         </plugin>
-        <plugin name="Levi45 settings v.1.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_1.6_all.deb"</url>
+        <plugin name="Levi45 settings v.2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.0_all.deb"</url>
         </plugin>
 
         <plugin name="iSetting START v.1.5">
