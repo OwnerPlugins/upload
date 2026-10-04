@@ -53,8 +53,8 @@
     </plugins>
     <!-- BOUQUETS -->
     <plugins cont="Bouquets Tools ">
-        <plugin name="Levi45 settings_2.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.1_all.ipk"</url>
+        <plugin name="Levi45 settings_2.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.ipk"</url>
         </plugin>
         <plugin name="Update Icam Settings v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-updateicamsettings_2.1_all.ipk"</url>
@@ -465,8 +465,8 @@
         <plugin name="FreePlayer v.1.70.0 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk"</url>
         </plugin>
-        <plugin name="Gtiptvplayerpro 1.1.0-r23 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.1.0-r23_all.ipk"</url>
+        <plugin name="Gtiptvplayerpro 1.2.0-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk"</url>
         </plugin>
         <plugin name="HbbTV Player v.0.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
@@ -1201,8 +1201,8 @@
         <plugin name="Iptv Remote v.1.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
         </plugin>
-        <plugin name="Levi45 settings v.2.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.1_all.deb"</url>
+        <plugin name="Levi45 settings v.2.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.deb"</url>
         </plugin>
 
         <plugin name="iSetting START v.1.5">
