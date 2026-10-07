@@ -1479,6 +1479,9 @@
         <plugin name="Wireguardmanager v.1.0.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-wireguardmanager_1.0.6_all.deb"</url>
         </plugin>
+        <plugin name="KidsSafe Bouquets">
+            <url>"https://github.com/dorinelu/KidsSafeBouquets/releases/latest/download/enigma2-plugin-extensions-kidssafebouquets_all.deb"</url>
+        </plugin>
     </plugins>
     <!-- MEDIAPORTAL - YOUTUBE -->
     <plugins cont="Mediaplayer-Youtube ">
