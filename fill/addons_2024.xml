@@ -2805,6 +2805,9 @@
         <plugin name="Zerotier v.1.4.6-r0 mips32el fix">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/zerotier_1.4.6-r0_mips32el.ipk"</url>
         </plugin>
+        <plugin name="KidsSafe Bouquets">
+            <url>"https://github.com/dorinelu/KidsSafeBouquets/releases/latest/download/enigma2-plugin-extensions-kidssafebouquets_all.ipk"</url>
+        </plugin>
     </plugins>
     <!-- VPN -->
     <plugins cont="Vpn Tools ">
