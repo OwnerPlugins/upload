@@ -7,3 +7,11 @@
   in this repo.
 - Commits made by the automated `.github/workflows/build-and-publish-ipk.yml`
   pipeline stay authored as `github-actions[bot]` — do not change that.
+
+# Branches
+
+- All work goes to `develop`, always — never push to or create a
+  session-specific branch (e.g. `claude/...`). Push directly to `develop`
+  (and keep `main` in sync with it the same way) instead of using the
+  harness-assigned session branch.
+
