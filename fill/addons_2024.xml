@@ -465,6 +465,9 @@
         <plugin name="FreePlayer v.1.70.0 mod lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk"</url>
         </plugin>
+        <plugin name="Fysinema v.1.2.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-fysinema_1.2.1_all.ipk"</url>
+        </plugin>
         <plugin name="Gtiptvplayerpro 1.2.0-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk"</url>
         </plugin>
