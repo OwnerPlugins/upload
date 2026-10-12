@@ -3264,6 +3264,9 @@
         <plugin name="FHD Metrix Neo v13 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Mohammed v.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-mohammedskin_all.ipk"</url>
+        </plugin>
         <plugin name="FHD Multibox By stein17 Mod. By RAED OpenSource-only all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/Multibox-FHD-By-stein17-Mod-By-RAED_OpenSource-only.ipk"</url>
         </plugin>
