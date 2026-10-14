@@ -468,8 +468,8 @@
         <plugin name="Fysinema v.1.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-fysinema_1.2.1_all.ipk"</url>
         </plugin>
-        <plugin name="Gtiptvplayerpro 1.2.0-r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk"</url>
+        <plugin name="Gtiptvplayerpro 1.3.0-r0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.3.0-r0_all.ipk"</url>
         </plugin>
         <plugin name="HbbTV Player v.0.2-r2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk"</url>
@@ -1063,8 +1063,8 @@
         <plugin name="Cccam Info mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_mipsel.deb"</url>
         </plugin>
-        <plugin name="Levi45 freeserver v.2.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb"</url>
+        <plugin name="Levi45 freeserver v.2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.9_all.deb"</url>
         </plugin>
         <plugin name="Levi45 freeserver py2 v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.deb"</url>
@@ -2211,8 +2211,8 @@
         <plugin name="Dreamosat xline v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-dreamosatxline_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Levi45 freeserver 2.6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk"</url>
+        <plugin name="Levi45 freeserver 2.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.9_all.ipk"</url>
         </plugin>
         <plugin name="Levi45 freeserver -py2 1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.ipk"</url>
