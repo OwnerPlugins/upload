@@ -1620,6 +1620,10 @@
         <plugin name="Emil Panel v.1.6">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-emilpanel_v1.6_all.ipk"</url>
         </plugin>
+        <plugin name="Enigma Play v.1.2.9 all" >
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-enigmaplay_1.2.9_all.ipk"</url>
+        </plugin>
+
         <plugin name="Goldenfeed v.6.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-goldenfeed_6.8_all.ipk"</url>
         </plugin>
