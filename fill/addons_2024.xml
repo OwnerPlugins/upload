@@ -1114,6 +1114,9 @@
         <plugin name="Dream Xtream v.0.3-r8.0 mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dreamxtream_0.3-r8.0_mipsel.deb"</url>
         </plugin>
+        <plugin name="E2 Security v.1.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/E2-Security_1.1.1_all.deb"</url>
+        </plugin>        
         <plugin name="E2iplayer v.h1+git3988+7977fec-r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"</url>
         </plugin>
@@ -1295,6 +1298,9 @@
         </plugin>
         <plugin name="New Virtual Keyboard v.13.8.20260425 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-newvirtualkeyboard_13.8.20260425_all.deb"</url>
+        </plugin>
+        <plugin name="Panel AIO v.17.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_17.0.1_all.deb"</url>
         </plugin>
         <plugin name="Vhannibal Autosetting FHD Mod by Lululla v.2.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ngsetting-fhd_2.7_all.deb"</url>
@@ -1654,8 +1660,8 @@
         <plugin name="OscamForAll v.1.2.all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-oscamforall_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Panel AIO v.16.0.0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_16.0.0_all.ipk"</url>
+        <plugin name="Panel AIO v.17.0.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_17.0.1_all.ipk"</url>
         </plugin>
         <plugin name="S4aupdater 23.05.16 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk"</url>
@@ -2545,6 +2551,9 @@
         <plugin name="Dream Screen 1.4 r1 ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamscreen_1.4-1_all.ipk"</url>
         </plugin>
+        <plugin name="E2 Security v.1.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk"</url>
+        </plugin>   
         <plugin name="Eparted_0.13-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"</url>
         </plugin>
@@ -2689,6 +2698,9 @@
         <plugin name="Radiologo vti stony272 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-radiologo-vti-stony272_01_all.ipk"</url>
         </plugin>
+        <plugin name="Redflag Packagemanager v.1.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-redflag-packagemanager_1.9_all.ipk"</url>
+        </plugin>
         <plugin name="S4aupdater 23.12.27.1727 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"</url>
         </plugin>
@@ -2757,6 +2769,9 @@
         </plugin>
         <plugin name="Translator Youtube Trailer v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-translator_1.1_all.ipk"</url>
+        </plugin>
+        <plugin name="Uydu Markettkgs v.2.2.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-uydumarkettkgs_2.2.0_all.ipk"</url>
         </plugin>
         <plugin name="Unrar 4 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/unrar_4.0.4-r0_mips32el.ipk"</url>
