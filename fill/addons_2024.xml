@@ -711,8 +711,8 @@
         <plugin name="XKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80.20260325_all.ipk"</url>
         </plugin>
-        <plugin name="XStreamity v.5.70.20261019 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.70.20261019_all.ipk"</url>
+        <plugin name="XStreamity v.5.72.20261024 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.72.20261024_all.ipk"</url>
         </plugin>
         <plugin name="E2Piconizer v.1.28.20250517 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk"</url>
@@ -739,8 +739,8 @@
         <plugin name="xKlass v.1.80.20260325 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80_20260325.deb"</url>
         </plugin>
-        <plugin name="XStreamity v.5.70_20261019 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.70_20261019_all.deb"</url>
+        <plugin name="XStreamity v.5.72_20261024 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.72_20261024_all.deb"</url>
         </plugin>
         <plugin name="Screen Names v.1.06.20240825">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"</url>
@@ -1419,6 +1419,9 @@
         <plugin name="Telekomsport v.2.0+git93+b0dca2f-r0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"</url>
         </plugin>
+        <plugin name="The Weather v.5.23 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_5.23_all.deb"</url>
+        </plugin>        
         <plugin name="The Weather v.3.2 mod. Caught all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.2_all.deb"</url>
         </plugin>
@@ -2890,6 +2893,9 @@
         <plugin name="OaWeather-iet v.1.4B all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"</url>
         </plugin>
+        <plugin name="The Weather v.5.23 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_5.23_all.ipk"</url>
+        </plugin>        
         <plugin name="The Weather v.5.6 mod. Caught all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_5.6_all.ipk"</url>
         </plugin>
