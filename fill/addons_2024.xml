@@ -2950,8 +2950,8 @@
         <plugin name="Weather Bhweather V0.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/bhweather_V0.2_all.ipk"</url>
         </plugin>
-        <plugin name="Weather Etweer 4.7r01 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-hetweer_4.7r01_all.ipk"</url>
+        <plugin name="Weather Etweer 4.4.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-hetweer_4.4.0_all.ipk"</url>
         </plugin>
         <plugin name="Weather C1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-weather_c1.1_all.ipk"</url>
@@ -3676,6 +3676,10 @@
         <plugin name="FHD Dark v.1.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-darkfhd_v1.7_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Dreamosat Xaurora v.1.5.7 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-dreamosatxaurora_1.5.7_all.ipk"</url>
+        </plugin>
+
         <plugin name="FHD Fury v.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk"</url>
         </plugin>
