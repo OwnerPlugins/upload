@@ -847,8 +847,8 @@
         <plugin name="Oroscopo Italia v.1.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oroscopo_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Parsa TV v.1.8 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.8_all.ipk"</url>
+        <plugin name="Parsa TV v.1.9 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.9_all.ipk"</url>
         </plugin>
         <plugin name="Plugins Panels Show Plugin v.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.ipk"</url>
@@ -946,8 +946,8 @@
         <plugin name="mmPicons v.1.6 mMark">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.6_all.deb"</url>
         </plugin>
-        <plugin name="Parsa TV v.1.8">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.8_all.deb"</url>
+        <plugin name="Parsa TV v.1.9">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.9_all.deb"</url>
         </plugin>
         <plugin name="RadioGit v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.deb"</url>
