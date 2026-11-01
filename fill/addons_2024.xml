@@ -1311,6 +1311,9 @@
         <plugin name="Oeupdatere2 v.2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
         </plugin>
+        <plugin name="OpenCam View v2.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-opencamview_2.0.2_all.deb"</url>
+        </plugin>        
         <plugin name="Openvpn v.2.5.9-r0.0 mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"</url>
         </plugin>
@@ -2938,8 +2941,8 @@
         <plugin name="Camofs 17.37 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
         </plugin>
-        <plugin name="World Cam 4.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.4_all.ipk"</url>
+        <plugin name="OpenCam View v2.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-opencamview_2.0.2_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- ADULTS 2.0 -->
