@@ -441,6 +441,9 @@
         <plugin name="E2iPlayer ts 17.05-2024 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-ts_17.05-2024_all.ipk"</url>
         </plugin>
+        <plugin name="E2iptvlab v0.1-20261022c all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iptvlab_0.1-20261022c_all.ipk"</url>
+        </plugin>
         <plugin name="E2iStream 20191129_r01 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2istream_20191129_r01_all.ipk"</url>
         </plugin>
@@ -1311,8 +1314,8 @@
         <plugin name="Oeupdatere2 v.2.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oneupdatere2_2.8_all.deb"</url>
         </plugin>
-        <plugin name="OpenCam View v2.0.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-opencamview_2.0.2_all.deb"</url>
+        <plugin name="OpenCam View v2.0.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-opencamview_2.0.3_all.deb"</url>
         </plugin>        
         <plugin name="Openvpn v.2.5.9-r0.0 mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"</url>
@@ -2941,8 +2944,8 @@
         <plugin name="Camofs 17.37 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-camofs_17.37_all.ipk"</url>
         </plugin>
-        <plugin name="OpenCam View v2.0.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-opencamview_2.0.2_all.ipk"</url>
+        <plugin name="OpenCam View v2.0.3 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-opencamview_2.0.3_all.ipk"</url>
         </plugin>
     </plugins>
     <!-- ADULTS 2.0 -->
