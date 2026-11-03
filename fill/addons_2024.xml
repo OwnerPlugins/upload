@@ -1702,6 +1702,9 @@
         <plugin name="Picon Cockpit 5.6.9 mod. Lululla all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcockpit_5.6.9_all.ipk"</url>
         </plugin>
+        <plugin name="Picon HUB v.0.1.40 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconhub_0.1.40_all.ipk"</url>
+        </plugin>
         <plugin name="Picon Manager 2.6-20250511-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk"</url>
         </plugin>
@@ -3651,6 +3654,9 @@
         </plugin>
         <plugin name="FHD Dreamosat Xaurora v.1.5.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-dreamosatxaurora_1.5.7_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD GLASS v.1.0.65 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.65_all.ipk"</url>
         </plugin>
 
         <plugin name="FHD Fury v.7.0 all">
