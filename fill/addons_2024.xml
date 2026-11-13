@@ -540,6 +540,9 @@
         <plugin name="Mediaplayer2 git26+17c9822 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk"</url>
         </plugin>
+        <plugin name="Mediaplayer3 v1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/mediaplayer3_1.5.000_all.ipk"</url>
+        </plugin>
         <plugin name="Merlin Music Player v.7.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk"</url>
         </plugin>
@@ -1302,8 +1305,8 @@
         <plugin name="New Virtual Keyboard v.13.8.20260425 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-newvirtualkeyboard_13.8.20260425_all.deb"</url>
         </plugin>
-        <plugin name="Panel AIO v.17.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_17.0.1_all.deb"</url>
+        <plugin name="Panel AIO v.18.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_18.0.0_all.deb"</url>
         </plugin>
         <plugin name="Vhannibal Autosetting FHD Mod by Lululla v.2.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ngsetting-fhd_2.7_all.deb"</url>
@@ -1512,6 +1515,9 @@
         <plugin name="Quran-Karim v.2.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-quran-karim_2.1_all.ipk"</url>
         </plugin>
+        <plugin name="Youtube plus v1.3.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtubeplus_1.3.2_all"</url>
+        </plugin>
         <plugin name="Youtube plus-minitv py2 v2-git1133-5722cc7-r0.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-plus-minitv_py2-v2-git1133-5722cc7-r0.0_all.ipk"</url>
         </plugin>
@@ -1669,8 +1675,8 @@
         <plugin name="OscamForAll v.1.2.all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-oscamforall_1.2_all.ipk"</url>
         </plugin>
-        <plugin name="Panel AIO v.17.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_17.0.1_all.ipk"</url>
+        <plugin name="Panel AIO v.18.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_18.0.0_all.ipk"</url>
         </plugin>
         <plugin name="S4aupdater 23.05.16 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk"</url>
@@ -2012,6 +2018,10 @@
         </plugin>
         <plugin name="Hdfradio_2.28.1_py3_3.14_mips32el all">
             <url>https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.14_mips32el.ipk</url>
+        </plugin>
+
+        <plugin name="Radioteca v1.9 by fifetto all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-radioteca_1.9_all.ipk"</url>
         </plugin>
 
         <plugin name="Ipaudiopro_1.4_aarch64 all">
@@ -2533,8 +2543,8 @@
         <plugin name="E2 Security v.1.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk"</url>
         </plugin>
-        <plugin name="E2 Toolkit v.2.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-e2toolkit_2.4_all.ipk"</url>
+        <plugin name="E2 Toolkit v.2.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-e2toolkit_2.6_all.ipk"</url>
         </plugin>
         <plugin name="Eparted_0.13-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"</url>
@@ -2676,6 +2686,9 @@
         </plugin>
         <plugin name="Quarter Pounder 6.2.0m all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk"</url>
+        </plugin>
+        <plugin name="Radar Aerlain v1.0.4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-radaraerei_1.0.4_all.ipk"</url>
         </plugin>
         <plugin name="Radiologo vti stony272 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-radiologo-vti-stony272_01_all.ipk"</url>
@@ -3658,8 +3671,8 @@
         <plugin name="FHD Dreamosat Xaurora v.1.5.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-dreamosatxaurora_1.5.7_all.ipk"</url>
         </plugin>
-        <plugin name="FHD GLASS v.1.0.69 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.69_all.ipk"</url>
+        <plugin name="FHD GLASS v.1.0.80 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.80_all.ipk"</url>
         </plugin>
 
         <plugin name="FHD Fury v.7.0 all">
