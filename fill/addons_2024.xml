@@ -3209,6 +3209,9 @@
         <plugin name="FHD Areadeltasat Dragon Poster Backdrop v.4.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2_plugin_skins_areadeltasat_fhd_dragon_4_2_Poster_Backdrop.ipk"</url>
         </plugin>
+        <plugin name="FHD satellite-forum-fullhd_1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skin-satellite-forum-fullhd_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="FHD BATMAN-T By Muaath all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/Skin-BATMAN-T-FHD-By-Muaath.ipk"</url>
         </plugin>
