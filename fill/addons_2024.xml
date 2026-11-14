@@ -1069,8 +1069,8 @@
         <plugin name="Cccam Info mipsel">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cccaminfo_mipsel.deb"</url>
         </plugin>
-        <plugin name="Levi45 freeserver v.3.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.5_all.deb"</url>
+        <plugin name="Levi45 freeserver v.3.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.6_all.deb"</url>
         </plugin>
         <plugin name="cfg Zoom Final FIX7x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
@@ -1248,8 +1248,8 @@
         <plugin name="Lcd4linux v.5.1-r1 mipsel all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-lcd4linux_5.1-r4_mipsel.deb"</url>
         </plugin>
-        <plugin name="Levi45 MultiCam Manager v.10.2-r6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.deb"</url>
+        <plugin name="Levi45 MultiCam Manager v.10.3-r1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.deb"</url>
         </plugin>
         <plugin name="Levi45 Addon Panel v.10.2-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.2-r0_all.deb"</url>
@@ -1651,8 +1651,8 @@
         <plugin name="Image Downloader v.2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"</url>
         </plugin>
-        <plugin name="Levi45 MultiCam Manager v.10.2-r6 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.ipk"</url>
+        <plugin name="Levi45 MultiCam Manager v.10.3-r1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.ipk"</url>
         </plugin>
         <plugin name="Levi45 Addon Panel v.10.2-r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.2-r0_all.ipk"</url>
@@ -2057,8 +2057,8 @@
         <plugin name="Oscam TVSat OpenBH all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat-openBH.ipk"</url>
         </plugin>
-        <plugin name="Levi45emulator v1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.4_all.ipk"</url>
+        <plugin name="Levi45emulator v1.5 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.ipk"</url>
         </plugin>
         <plugin name="CCcam 2.3.9 r6 OE 2.0 IPK all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk"</url>
@@ -2078,8 +2078,8 @@
         <plugin name="Ncam Revcam2 12.9-r0 all ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk"</url>
         </plugin>
-        <plugin name="Oscam Icam emu pcsc levi45 11968-803 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11968-803_all.ipk"</url>
+        <plugin name="Oscam Icam emu pcsc levi45 11975-803 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.ipk"</url>
         </plugin>
         <plugin name="Oscam Icam py3.21_11788-emu-r801 ipk">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk"</url>
@@ -2141,8 +2141,8 @@
     </plugins>
     <!-- SOFTCAMS OE2.2 -->
     <plugins cont="Softcams OE2.2/2.5/2.6 ">
-        <plugin name="Levi45emulator 1.4 all  all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.4_all.deb"</url>
+        <plugin name="Levi45emulator 1.5 all  all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.deb"</url>
         </plugin>
         <plugin name="Oscam Emu Kitte888 11857  all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-kitte888_11857-802.deb"</url>
@@ -2159,8 +2159,8 @@
         <plugin name="CCcam 2.3.2 emu r4 arm-mips DEB">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-softcams-cccam-all-images_239-r4-RAED_OE2.5_all.deb"</url>
         </plugin>
-        <plugin name="Oscam Icam emu pcsc levi45 11968-803 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11968-803_all.deb"</url>
+        <plugin name="Oscam Icam emu pcsc levi45 11975-803 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.deb"</url>
         </plugin>
         <plugin name="Oscam Icam 11787-py3.21_emu-r801 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11787-801_all.deb"</url>
@@ -2207,8 +2207,8 @@
         <plugin name="Dreamosat xline v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-dreamosatxline_1.0_all.ipk"</url>
         </plugin>
-        <plugin name="Levi45 freeserver 3.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.5_all.ipk"</url>
+        <plugin name="Levi45 freeserver 3.6 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.6_all.ipk"</url>
         </plugin>
         <plugin name="Softcam Key Updater v.6.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-softcamkeyupdater_6.1_all.ipk"</url>
