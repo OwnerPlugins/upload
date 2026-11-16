@@ -1165,6 +1165,9 @@
         <plugin name="EPG Language v.3.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epglanguage_v3.0_all.deb"</url>
         </plugin>
+        <plugin name="EPG translator ng v.6.28 arm64 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgtranslatorng_6.28_arm64.deb"</url>
+        </plugin>
         <plugin name="Eurojackpot 240202">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-eurojackpot_240202_all.deb"</url>
         </plugin>
