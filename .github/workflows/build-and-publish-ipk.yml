@@ -16,6 +16,11 @@ on:
 jobs:
   build-and-publish:
     runs-on: ubuntu-latest
+    # Two runs for the same plugin (e.g. two quick pushes) would otherwise
+    # race on the very same .ipk file. Queue them instead.
+    concurrency:
+      group: publish-ipk-${{ inputs.source_repo }}
+      cancel-in-progress: false
     steps:
       - name: Checkout source plugin repo
         uses: actions/checkout@v4
@@ -56,21 +61,28 @@ jobs:
           git commit -m "Auto-update ${{ inputs.source_repo }} package"
 
           # Many of these workflows can fire around the same time and race
-          # to push to main. Retry with a rebase on top of whatever landed
-          # in between, rather than failing outright on a non-fast-forward.
+          # to push to main. A rebase can conflict on the binary .ipk/.deb
+          # files, so on rejection start again from the latest main and
+          # re-apply this package on top of it instead.
           for attempt in 1 2 3 4 5 6 7 8; do
             if git push origin HEAD:main; then
               echo "Pushed on attempt $attempt."
               exit 0
             fi
-            echo "Push rejected (attempt $attempt), fetching and rebasing..."
+            echo "Push rejected (attempt $attempt), re-applying on latest main..."
             sleep $(( (RANDOM % 10) + attempt * 3 ))
             git fetch origin main
-            if ! git rebase origin/main; then
-              echo "::error::Rebase conflict against origin/main, needs manual resolution."
-              git rebase --abort
-              exit 1
+            git reset --hard origin/main
+            shopt -s nullglob
+            for f in "$RUNNER_TEMP"/out/*.ipk "$RUNNER_TEMP"/out/*.deb; do
+              python3 scripts/sync_package.py --pkg "$f" --upload-dir .
+            done
+            if [ -z "$(git status --porcelain)" ]; then
+              echo "Latest main already has this package, nothing to push."
+              exit 0
             fi
+            git add -A
+            git commit -m "Auto-update ${{ inputs.source_repo }} package"
           done
           echo "::error::Failed to push after repeated retries."
           exit 1
