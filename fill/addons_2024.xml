@@ -1383,6 +1383,9 @@
         <plugin name="Quarterpounder v.6.2.0.20201122 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"</url>
         </plugin>
+        <plugin name="Remote Channel Converter-dreamos v.2.0.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugins-remotechannelconverter-dreamos_2.0.2_all.deb"</url>
+        </plugin>
         <plugin name="S4aupdater 23.04.05.1156 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"</url>
         </plugin>
