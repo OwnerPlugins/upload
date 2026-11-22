@@ -1093,6 +1093,11 @@
         <plugin name="cfg Zoom Final FIX7x all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"</url>
         </plugin>
+        
+        <plugin name="Channel Lingo v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ChannelLingo_1.1_all.deb"</url>
+        </plugin>        
+        
         <plugin name="Channel Selection Plus v.0.1.1-r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-channelselectionplus_0.1.1-r8_all.deb"</url>
         </plugin>
@@ -2535,6 +2540,9 @@
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/Change-mac-address_e2_all.ipk"</url>
         </plugin>
 
+        <plugin name="Channel Lingo v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ChannelLingo_1.1_all.ipk"</url>
+        </plugin>
         <plugin name="Ci OFF/ON v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-cioffon_1.2_all.ipk"</url>
         </plugin>
