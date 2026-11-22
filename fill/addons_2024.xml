@@ -135,14 +135,17 @@
         <plugin name="LCN Scanner 2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_2.0_all.ipk"</url>
         </plugin>
+        <plugin name="Rcsc Settvbox4u v.2.1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-rcsc-settvbox4u_2.1.0_all.ipk"</url>
+        </plugin>
         <plugin name="SatVenus Settings 5.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_5.0_all.ipk"</url>
         </plugin>
         <plugin name="Setloader v. 1.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-settloader_1.5_all.ipk"</url>
         </plugin>
-        <plugin name="Service Scan Updates v.1.3.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.ipk"</url>
+        <plugin name="Service Scan Updates v.3.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-servicescanupdatesiet5_3.1_all.ipk"</url>
         </plugin>
         <plugin name="Servicescanupdates v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.ipk"</url>
@@ -492,8 +495,8 @@
         <plugin name="Iptv Bouquet v.1.0 r0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk"</url>
         </plugin>
-        <plugin name="Iptvdream v.8.0.1 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_8.0.1_all.ipk"</url>
+        <plugin name="Iptvdream v.9.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_9.0.0_all.ipk"</url>
         </plugin>
         <plugin name="Iptvdream all v.4.123 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream-all_4.123_all.ipk"</url>
@@ -1233,6 +1236,9 @@
         <plugin name="Iptv Dream v.6.0.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvdream_6.0.4_all_dreamos.deb"</url>
         </plugin>
+        <plugin name="Iptv Dream v.9.0.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvdream_9.0.0_all.deb"</url>
+        </plugin>
         <plugin name="Iptv Remote v.1.0.5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5.deb"</url>
         </plugin>
@@ -1415,8 +1421,8 @@
         <plugin name="Serienrecorder v.4.7.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-serienrecorder_4.7.0_all.deb"</url>
         </plugin>
-        <plugin name="Service Scan update v.1.3.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.deb"</url>
+        <plugin name="Service Scan update v.3.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-servicescanupdatesiet5_3.1_all.deb"</url>
         </plugin>
         <plugin name="Servicescan update v.1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"</url>
@@ -2569,6 +2575,7 @@
         <plugin name="Curl 7.40.0 r0 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/curl_7.40.0-r0_mips32el-nf.ipk"</url>
         </plugin>
+
         <plugin name="Cutsclear iet-1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cutsclear_1.2_all.ipk"</url>
         </plugin> 
@@ -2580,6 +2587,9 @@
         </plugin>
         <plugin name="Dream Screen 1.4 r1 ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamscreen_1.4-1_all.ipk"</url>
+        </plugin>
+        <plugin name="E2-Currency-Pro all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/E2-Currency-Pro.ipk"</url>
         </plugin>
         <plugin name="E2 Security v.1.1.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk"</url>
@@ -2616,6 +2626,9 @@
         </plugin>
         <plugin name="Glass Utility 12.12">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-glasssysutil_12.12_all.ipk"</url>
+        </plugin>
+        <plugin name="Gsu v.13.41-r4 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-gsu_13.41-r4_all.ipk"</url>
         </plugin>
         <plugin name="Hardware Info v.5.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_5.1_all.ipk"</url>
@@ -3676,6 +3689,9 @@
         <plugin name="FHD Revolution Pro Full v.1.1 by Dragon all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skin-revolution-pro_full.1.1.OBH.dragon_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Cineview mla v.1.1.7.2.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openbhvix_all.ipk"</url>
+        </plugin>   
         <plugin name="FHD Cobalt V3-16.11.2025 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OBH/enigma2-plugin-skins-cobaltfhd_OBH-V3-16.11.2025_all.ipk"</url>
         </plugin>        
@@ -3715,8 +3731,8 @@
         <plugin name="FHD Dreamosat Xaurora v.1.5.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-dreamosatxaurora_1.5.7_all.ipk"</url>
         </plugin>
-        <plugin name="FHD GLASS v.1.0.82 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.82_all.ipk"</url>
+        <plugin name="FHD GLASS v.1.0.83 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.83_all.ipk"</url>
         </plugin>
 
         <plugin name="FHD Fury v.7.0 all">
@@ -3866,6 +3882,9 @@
         <plugin name="HD Blueaccents v.0.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-blueaccents-hd_0.1_all.ipk"</url>
         </plugin>
+        <plugin name="HD Cineview mla v.1.1.7.2.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openatv_all.ipk"</url>
+        </plugin>
         <plugin name="HD Metrix Confluence Adrenalinnrw v.1.6 by Dragon xtraevent all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-skin-metrixconfluenceatv-adrenalinnrw_1_6full_dragonxtraevent_all.ipk"</url>
         </plugin>
@@ -3892,6 +3911,9 @@
         </plugin>
         <plugin name="FHD Bluemetal v.2.20 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-bluemetalfhd_2.20_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Cineview mla v.1.1.7.2.8 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openpli_all.ipk"</url>
         </plugin>
         <plugin name="FHD Cinogriplif 7 20190109-r3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-skin-cinogriplifhd-7_20190109-r3_all.ipk"</url>
