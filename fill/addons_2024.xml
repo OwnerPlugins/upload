@@ -3861,6 +3861,10 @@
         <plugin name="FHD Novax v.2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-novax-fhd_2.0_all.ipk"</url>
         </plugin>
+        <plugin name="FHD Obsidian v.1.8.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-obsidian-fhd_1.8.0_all.ipk"</url>
+        </plugin>
+
         <plugin name="FHD Odreamy v.2.6 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-odreamy-fhd_2.6_all.ipk"</url>
         </plugin>
