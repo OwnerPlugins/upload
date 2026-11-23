@@ -3731,8 +3731,8 @@
         <plugin name="FHD Dreamosat Xaurora v.1.5.7 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-dreamosatxaurora_1.5.7_all.ipk"</url>
         </plugin>
-        <plugin name="FHD GLASS v.1.0.83 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.83_all.ipk"</url>
+        <plugin name="FHD GLASS v.1.0.86 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.86_all.ipk"</url>
         </plugin>
 
         <plugin name="FHD Fury v.7.0 all">
@@ -3767,6 +3767,9 @@
         </plugin>
         <plugin name="FHD Maxy v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk"</url>
+        </plugin>
+        <plugin name="FHD Maxy Pro v.1.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxypro_1.1_all.ipk"</url>
         </plugin>
         <plugin name="FHD Metrix Neo 7S v.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"</url>
