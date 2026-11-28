@@ -940,6 +940,9 @@
         <plugin name="World Cam v.7.8 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.8_all.ipk"</url>
         </plugin>
+        <plugin name="Xc Diamond v.1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.ipk"</url>
+        </plugin>
         <plugin name="Xc Forever Gold v.5.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.ipk"</url>
         </plugin>
@@ -948,18 +951,46 @@
         </plugin>
     </plugins>
     <!-- LULULLA ZONE OE2.5-2.6 -->
-    <plugins cont="Lululla Zone OE2.2/2.5/2.6 ">
-        <plugin name="Softcam Manager v.3.6">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.deb"</url>
+    <plugins cont="Lululla Zone OE2.2/2.5/2.6">
+
+        <plugin name="Acherone v.1.4">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-acherone_1.4_all.deb"</url>
         </plugin>
-        <plugin name="Apod Picture of the Day v.2.2 all">
+        <plugin name="Advanced Screenshot v.1.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-advancedscreenshot_1.2_all.deb"</url>
+        </plugin>
+        <plugin name="APOD v.2.2">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.deb"</url>
         </plugin>
         <plugin name="Apsat TV v.1.5">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apsattv_1.5_all.deb"</url>
         </plugin>
+        <plugin name="Backsncovers v.1.5">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-backsncovers_1.5_all.deb"</url>
+        </plugin>
+        <plugin name="Backup Suite v.3.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-backupsuite_3.0-r12_all.deb"</url>
+        </plugin>
+        <plugin name="Bouquet Updater v.3.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-bouquetupdater_3.1.0_all.deb"</url>
+        </plugin>
+        <plugin name="Calendar Planner v.2.1">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-calendar_2.1_all.deb"</url>
+        </plugin>
+        <plugin name="CI Plus Helper v.7.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ci-plus-helper_7.2_all.deb"</url>
+        </plugin>
+        <plugin name="Command Center v.1.4">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-commandcenter_1.4_all.deb"</url>
+        </plugin>
+        <plugin name="DD RSS Reader v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_1.0_all.deb"</url>
+        </plugin>
         <plugin name="FilmOn v.2.6">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.6_all.deb"</url>
+        </plugin>
+        <plugin name="Foreca One v.1.3.5">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.3.5_all.deb"</url>
         </plugin>
         <plugin name="Freearhey v.3.2">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.2_all.deb"</url>
@@ -967,51 +998,94 @@
         <plugin name="HasBahCa v.2.3">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.3_all.deb"</url>
         </plugin>
-        <plugin name="M3U Iptv v.1.1">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"</url>
+        <plugin name="Horoscope v.1.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-horoscope_1.2_all.deb"</url>
         </plugin>
-        <plugin name="mmPicons v.1.6 mMark">
+        <plugin name="HypnoTube v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hypnotube_1.0_all.deb"</url>
+        </plugin>
+        <plugin name="Lotto Statistiche v.1.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-lottostatistiche_1.2_all.deb"</url>
+        </plugin>
+        <plugin name="Merlin Music Player v.7.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-merlinmusicplayer_7.0_all.deb"</url>
+        </plugin>
+        <plugin name="mmPicons v.1.6">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.6_all.deb"</url>
+        </plugin>
+        <plugin name="Movie Browser v.4.4">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-moviebrowser_4.4_all.deb"</url>
+        </plugin>
+        <plugin name="OAWeather v.4.1">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oaweather_4.1_all.deb"</url>
+        </plugin>
+        <plugin name="Oroscopo Italia v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oroscopo_1.0_all.deb"</url>
         </plugin>
         <plugin name="Parsa TV v.1.9">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.9_all.deb"</url>
         </plugin>
-        <plugin name="RadioGit v.1.2 all">
+        <plugin name="Plugins Panel v.1.1">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.deb"</url>
+        </plugin>
+        <plugin name="RadioGit v.1.2">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.deb"</url>
         </plugin>
-        <plugin name="RadioM v.1.2 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.2_all.deb"</url>
+        <plugin name="RadioM v.1.6">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.6_all.deb"</url>
         </plugin>
-        <plugin name="RSS Reader v.1.14 all">
+        <plugin name="RaiPlay v.1.9">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-raiplay_1.9_all.deb"</url>
+        </plugin>
+        <plugin name="RSILive v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rsilive_1.0_all.deb"</url>
+        </plugin>
+        <plugin name="RSS Reader v.1.14">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.14_all.deb"</url>
         </plugin>
-        <plugin name="Scsearch v.1.30.1 all">
+        <plugin name="Scsearch v.1.30.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.deb"</url>
         </plugin>
-        <plugin name="Softcam Key Updater v.6.1-12.20 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"</url>
+        <plugin name="TvDream v.1.2">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.2_all.deb"</url>
         </plugin>
-        <plugin name="S.T.V.C.L. v.1.4 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.deb"</url>
+        <plugin name="TVGarden v.3.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_3.0_all.deb"</url>
         </plugin>
-        <plugin name="TvDream v.1.4">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.deb"</url>
+        <plugin name="Softcam Manager v.3.6">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.deb"</url>
         </plugin>
-        <plugin name="Rai Play v.1.5 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.5_all.deb"</url>
-        </plugin>
-        <plugin name="TvToM3U Convert v.2.1">
+        <plugin name="TvToM3U v.2.1">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.1_all.deb"</url>
         </plugin>
-        <plugin name="Uninstaller v.1.0 all">
+        <plugin name="Uninstaller v.1.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.deb"</url>
+        </plugin>
+        <plugin name="Vavoo v.1.92">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.92_all.deb"</url>
+        </plugin>
+        <plugin name="WiFi Manager v.1.5">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.5_all.deb"</url>
         </plugin>
         <plugin name="World Cam v.7.8">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.8_all.deb"</url>
         </plugin>
-        <plugin name="Xc Forever Gold v.5.2 all">
+        <plugin name="XC Diamond v.1.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.deb"</url>
+        </plugin>
+        <plugin name="XC Forever Gold v.5.2">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb"</url>
         </plugin>
+        <plugin name="XXX Plugin v.1.4">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.4_all.deb"</url>
+        </plugin>
+        <plugin name="Metrix Confluence XP Pro Skin v.3.0">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-skins-metrixconfluencexp-pro-atv-dragon-lululla_3.0_all.deb"</url>
+        </plugin>
+        <plugin name="Ozeta Skin v.2.0.3">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-skins-ozeta_2.0.3_all.deb"</url>
+        </plugin>
+
     </plugins>
     <!-- OE2.2 PLUGINS-->
     <plugins cont="Plugins OE2.2/2.5/2.6 ">
